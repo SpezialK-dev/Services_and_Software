@@ -27,6 +27,23 @@ How does the search engine finance itself
 
 ## Search Suggestions
 
+Where does it Gather its information from:
+
+| applies | Where does it draw its index from |
+|---------|-----------------------------------|
+|         | its own indexes                   |
+|         | google                            |
+|         | bing                              |
+|         | other                             |
+
+### Other or its own indexes
+more information to these points
+
+[ ] Other
+[ ] its own indexes
+
+
+
 ### Search Options
 
 | has option | option                            |
@@ -41,9 +58,11 @@ How does the search engine finance itself
 
 
 
-*1 = you don't have to visit a website to get the information / it has a summary without clicking on the link. \\
-*2 = switch to images/ text search/ shopping\\
-*3 = !otherSearchEngine to directly search on a different search engine without having to switch to said website.\\ 
+*1 = you don't have to visit a website to get the information / it has a summary without clicking on the link.
+
+*2 = switch to images/ text search/ shopping.
+
+*3 = !otherSearchEngine to directly search on a different search engine without having to switch to said website.
 
 ### Tests
 
@@ -54,11 +73,13 @@ We then will take a look on how on topic are the results.
 Search-queries
 
 - microsoft teams login
+- 
 
 
 How to interpret the results:
 
 - Does it give you a link to the login? Does it lead to something else, does it give you a wikipedia article. 
+- 
 
 ### Textual search
 
@@ -80,7 +101,6 @@ Search-queries
 - python get commandline flags
 
 ##### Results
-
 
 ### Image search
 
@@ -120,9 +140,20 @@ What are some things that are especially good or bad in the privacy policy.
 What they collect. This is based on what is found in the privacy policy if you do more research include those as sources as well. 
 
 ## User profile 
+Does it support a profile look google. Do you maybe need to pay to use it?
 
 ### What data is stored in the user profile
 
+
+# Problems 
+
+| does it have the problem | problem     |
+|--------------------------|-------------|
+|                          | IPv4 only*1 |
+
+
+
+*1 check with this [tool](https://dnschecker.org/ipv6-compatibility-checker.php)
 # Sources 
 
 - 
