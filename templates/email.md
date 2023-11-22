@@ -1,8 +1,10 @@
-# Name
+# name
 
-[website]()
-Country of origin:
+Date of adding this : XX.XX.20XX
 
+[Website]()
+
+Country of origin: 
 # Finance 
 
 ## Free version?
@@ -10,3 +12,6 @@ Country of origin:
 ## paid planes 
 
 
+# Sources 
+
+- 
