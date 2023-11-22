@@ -18,6 +18,20 @@ How does the search engine finance itself
 |             | donations        |
 |             | pay for access   |
 
+### payment methodes
+
+| allowed | method                   |
+|---------|--------------------------|
+|         | creditcard               |
+|         | paypal                   |
+|         | physical cash  via mail  |
+|         | crypto                   |
+|         | other payment processors |
+
+A list of of more possible methods 
+
+- 
+
 ### Long review
 
 
@@ -40,6 +54,7 @@ Where does it Gather its information from:
 more information to these points
 
 [ ] Other
+
 [ ] its own indexes
 
 
