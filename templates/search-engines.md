@@ -29,3 +29,7 @@ How does the search engine finance itself
 # Special Mentions
 
 # Privacy notes
+
+## User profile 
+
+### What data is stored in the user profile
