@@ -5,12 +5,13 @@ Date of adding this : XX.XX.20XX
 [Website]()
 
 Country of origin: 
+# Verdict
 
 
-## Finance
+# Finance
 How does the search engine finance itself 
 
-### Quick overview
+## Quick overview
 | uses Method | Method           |
 |-------------|------------------|
 |             | pay for Features |
@@ -18,7 +19,7 @@ How does the search engine finance itself
 |             | donations        |
 |             | pay for access   |
 
-### payment methodes
+## payment methodes
 
 | allowed | method                   |
 |---------|--------------------------|
@@ -32,14 +33,14 @@ A list of of more possible methods
 
 - 
 
-### Long review
+## Long review
 
 
-#### quality of ads
+### quality of ads
 
 > Are the ads intrusive? How much space to the ads take up? Are they fitting to the search result, or are they tracking you?
 
-## Search Suggestions
+# Search Suggestions
 
 Where does it Gather its information from:
 
@@ -50,16 +51,14 @@ Where does it Gather its information from:
 |         | bing                              |
 |         | other                             |
 
-### Other or its own indexes
+## Other or its own indexes
 more information to these points
 
-[ ] Other
-
-[ ] its own indexes
-
+- [ ] Other
+- [ ] its own indexes
 
 
-### Search Options
+## Search Options
 
 | has option | option                            |
 |------------|-----------------------------------|
@@ -79,7 +78,7 @@ more information to these points
 
 *3 = !otherSearchEngine to directly search on a different search engine without having to switch to said website.
 
-### Tests
+## Tests
 
 To test this out we will use 2 different browsers on the same machine, if possible use a vpn to appear somewhere different in your country, because if you switch to a different country it might impact your search results. This localizing I don't see as a problem since it is easily bypassable via a vpn or proxy. And it is not Targeted. 
 
@@ -96,15 +95,15 @@ How to interpret the results:
 - Does it give you a link to the login? Does it lead to something else, does it give you a wikipedia article. 
 - 
 
-### Textual search
+## Textual search
 
-#### Tests
+### Tests
 I will enter this query and write what  
 
-#### Code 
+### Code 
 This category is not important for everyone!
 
-##### Tests
+#### Tests
 
 Here we will focus on the quality of the answers give. Here we do not care about tracking but rather if the results work and if they are from sources like stackoverflow or other known sources. 
 
@@ -115,11 +114,11 @@ Search-queries
 - c++ check length of an array
 - python get commandline flags
 
-##### Results
+#### Results
 
-### Image search
+## Image search
 
-#### Tests
+### Tests
 To see how on topic are the results that we get. 
 
 
@@ -128,6 +127,7 @@ Here are the search-queries
 - Iphone 14
 - apple
 - speech bubble png
+- 
 
 
 How to interpret the results
@@ -137,9 +137,9 @@ How to interpret the results
 - with the speech bubble png we want transparent images that are actual png's thought here even better search engines fail sometimes
 
 
-#### Results
+### Results
 
-### Additional Options
+## Additional Options
 
 # Special Mentions
 
@@ -165,6 +165,15 @@ Does it support a profile look google. Do you maybe need to pay to use it?
 | does it have the problem | problem     |
 |--------------------------|-------------|
 |                          | IPv4 only*1 |
+
+
+## Bad press
+
+Has the search engine 
+
+> Has this company had breaches in the past and not disclosed them properly ?
+> Have they done anything that is sketchy like mass surveillance. Then this belongs here 
+
 
 
 
